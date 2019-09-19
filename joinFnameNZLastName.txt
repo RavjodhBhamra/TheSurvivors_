@@ -1,0 +1,1 @@
+SELECT [customer].[customerNumber], [customer].[lastName] + "," + [customer].[firstName] FROM [customer];
